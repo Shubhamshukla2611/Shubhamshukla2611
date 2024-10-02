@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham Shukla</h1>
 <h3 align="center">A passionate STUDENT Of INFORMATION TECHNOLOGY From USICT.</h3>
-<img align="right" alt="coding" width="400" src="https://user github.com/user-attachments/assets/2eb637cc-aa88-4c03-87a1-2452a0143816")
+<img align="right" alt="coding" width="400" src="https://https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif")
 ca
 - 🌱 I’m currently learning **C,C++ And DSA.**
 
