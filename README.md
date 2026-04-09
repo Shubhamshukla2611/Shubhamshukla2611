@@ -92,4 +92,4 @@ const spidermanDev = {
   hireable: true
 };
 
-console.log(spidermanDev);
+
