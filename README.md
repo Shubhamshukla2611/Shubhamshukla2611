@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTdjYTkzc3AxeHpwbjVpY3UzeWYyNDFobjlkZGJoM2xpbWVucnBtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lPXGGmjnhVYjXBqrzW/giphy.gif" width="480" />
+  <img src=https://miro.medium.com/v2/resize:fit:786/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif />
 </p>
 
 ---
